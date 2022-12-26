@@ -9,7 +9,7 @@ Este repositorio por hora contém apenas os arquivos gerados, a ideia é posteri
 # Download
 Faça o Download da versão conforme seu Sistema Operacional (Sempre pegue a ultima versão).
 
-[Download](https://github.com/killerall/advtec-logprofiler-reader/releases/tag/3.0.1)
+[Download](https://github.com/killerall/advtec-logprofiler-reader/releases)
 
 
 Após efetuar o download do jar, é necessario dar permissão de execução no linux e MacOS:
